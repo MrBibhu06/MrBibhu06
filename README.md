@@ -1,21 +1,34 @@
-- 👋 Hello, World! I'm Bibhuti Sahu
-🔹 Aspiring Developer | Competitive Programmer
-🔹 Learning C, C++, Python, Java at Cyberlab Computer Institute
-🔹 Solving coding challenges and exploring new technologies
+<h1 align="center">Hi 👋, I'm Bibhuti Sahu</h1>
+<h3 align="center">A passionate Software Developer Of India</h3>
 
-💡 Passionate about problem-solving and software development
-🚀 Building projects, practicing coding, and growing every day
-🌱 Currently working on improving Data Structures & Algorithms
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbibhu06&label=Profile%20views&color=0e75b6&style=flat" alt="mrbibhu06" /> </p>
 
-📌 My GitHub Journey:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbibhu06" alt="mrbibhu06" /></a> </p>
 
-🌟 Uploading my coding solutions and projects
-🏆 Participating in coding contests
-🔥 Open to collaborations and learning from the community
-📫 Connect with me:7750009768
-🔗 sbibhuti246@gmail.com
+- 🔭 I’m currently working on *Software Developer*
 
-<!---
-MrBibhu06/MrBibhu06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning *C, C++, Java, DSA, Python*
+
+- 👯 I’m looking to collaborate on *Mission Google.*
+
+- 🤝 I’m looking for help with *@CyberLab Computer Institute*
+
+- 👨‍💻 All of my projects are available at [Cyberlab.java/C programming/Java](Cyberlab.java/C programming/Java)
+
+- 💬 Ask me about *C, C++ DSA, Java .*
+
+- 📫 How to reach me *sbibhuti246@gmail.com*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bibhuti sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibhuti sahu" height="30" width="40" /></a>
+<a href="https://fb.com/@bibhuti sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@bibhuti sahu" height="30" width="40" /></a>
+<a href="https://instagram.com/@ursstruly_bibhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ursstruly_bibhu" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbibhu06&show_icons=true&locale=en&layout=compact" alt="mrbibhu06" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbibhu06&show_icons=true&locale=en" alt="mrbibhu06" /></p>
