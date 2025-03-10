@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *C, C++, Java, DSA, Python*
 
-- 👯 I’m looking to collaborate on *Mission Google.*
+- 👯 I’m looking to collaborate on Google, Amazon.
 
 - 🤝 I’m looking for help with *@CyberLab Computer Institute*
 
