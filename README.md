@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Cyberlab.java/C programming/Java](Cyberlab.java/C programming/Java)
 
-- 💬 Ask me about **C, C++ DSA, Java, Webdesgin, Jsscript**
+- 💬 Ask me about **C, C++ DSA, Java, Python, MsOfficeWorks, Webdesgin, Jsscript**
 
 - 📫 How to reach me **sbibhuti246@gmail.com**
 
