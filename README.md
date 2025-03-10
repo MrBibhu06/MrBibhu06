@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with *@CyberLab Computer Institute*
 
-- 👨‍💻 All of my projects are available at [Cyberlab.java/C-programming/Java] (Cyberlab.java/C-programming/Java)
+- 👨‍💻 All of my projects are available at [Cyberlab.java/C-Language/Java] (Cyberlab.java/C-Language/Java)
 
 - 💬 Ask me about *C, C++ DSA, Java, Webdesgin, Jsscript*
 
