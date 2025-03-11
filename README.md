@@ -37,8 +37,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbibhu06&show_icons=true&locale=en" alt="mrbibhu06" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbibhu06&" alt="mrbibhu06" /></p>
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 # 💻 Illustration 
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
