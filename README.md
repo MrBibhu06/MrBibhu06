@@ -37,9 +37,31 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@_ursstruly_bibhu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@_ursstruly_bibhu" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbibhu06&show_icons=true&locale=en&layout=compact" alt="mrbibhu06" /></p>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbibhu06&show_icons=true&locale=en" alt="mrbibhu06" /></p>
+<p align="center">
+  <h1 align="center">Summary Of My Github Status</h1>
+</p>
+
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrBibhu06&label=Profile%20views&color=0e75b6&style=flat" alt="MrBibhu06" /> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrBibhu06 &theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<table align="center" border="1">
+<tr align="center">
+<td colspan="3"><img align="left" src="https://github-readme-stats.vercel.app/api?username=MrBibhu06&theme=tokyonight&show_icons=true" /></td>
+</tr>
+<tr align="center">
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBibhu06&theme=tokyonight&show_icons=true" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrBibhu06&theme=github_dark" /></td>
+<td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrBibhu06&theme=github_dark"/></td>
+</tr>
+<tr align="center">
+<td colspan="3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MrBibhu06&" alt="MrBibhu06" /></td>
+</tr>
+</table>
 
 # 💻 Illustration 
  ![Example SVG](dots.svg)
