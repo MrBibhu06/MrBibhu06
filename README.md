@@ -42,5 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbibhu06&show_icons=true&locale=en" alt="mrbibhu06" /></p>
 
 # 💻 Illustration 
-  <table align="right">
-    <tbody><tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/milaan9/milaan9/blob/main/3898082.svg"><img src="https://github.com/milaan9/milaan9/raw/main/3898082.svg" width="25" style="max-width: 100%;"></a> Languages</td></tr>
+ ![Example SVG](dots.svg)
