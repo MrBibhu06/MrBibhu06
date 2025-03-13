@@ -1,7 +1,7 @@
 ![logo](https://github.com/MrBibhu06/MrBibhu06/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Bibhuti Sahu</h1>
 <h3 align="center">A passionate Software Developer Of India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbibhu06&label=Profile%20views&color=0e75b6&style=flat" alt="mrbibhu06" /> </p>
 
