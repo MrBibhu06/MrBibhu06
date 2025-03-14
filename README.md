@@ -36,7 +36,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif">
+<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif">
 
 
 
@@ -95,10 +95,10 @@
 </picture>
 
 #Language.
-<table align="middle">
+<table align="center">
     <tbody><tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/milaan9/milaan9/blob/main/3898082.svg"><img src="https://github.com/milaan9/milaan9/raw/main/3898082.svg" width="25" style="max-width: 100%;"></a> Languages</td></tr>
     <tr><td><a href="/milaan9/milaan9/blob/main/README.md"><img src="https://github.com/milaan9/milaan9/raw/main/197484.svg" height="15" style="max-width: 100%;"> English ★★★☆☆</a></td></tr>
     <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Hindi ★★★★☆</a></td></tr>
     <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Odia ★★★★★</a></td></tr>
 
-<img align="middle" alt="coding" width="400" src="https://camo.githubusercontent.com/8c5e21d96568cf2c1007d581d67689b7cd39959bd1ef7ebed0750074d54778e1/68747470733a2f2f77616c6c70617065726163636573732e636f6d2f66756c6c2f383335313135362e676966">
+<img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/8c5e21d96568cf2c1007d581d67689b7cd39959bd1ef7ebed0750074d54778e1/68747470733a2f2f77616c6c70617065726163636573732e636f6d2f66756c6c2f383335313135362e676966">
