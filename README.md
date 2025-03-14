@@ -101,4 +101,4 @@
     <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Hindi ★★★★☆</a></td></tr>
     <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Odia ★★★★★</a></td></tr>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8c5e21d96568cf2c1007d581d67689b7cd39959bd1ef7ebed0750074d54778e1/68747470733a2f2f77616c6c70617065726163636573732e636f6d2f66756c6c2f383335313135362e676966.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8c5e21d96568cf2c1007d581d67689b7cd39959bd1ef7ebed0750074d54778e1/68747470733a2f2f77616c6c70617065726163636573732e636f6d2f66756c6c2f383335313135362e676966">
