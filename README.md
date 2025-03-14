@@ -47,7 +47,7 @@
 </table>
 
 <p align="center">
-  <h1 align="center">Summary Of My Github Status</h1>
+  <h1 align="center">🔎Summary Of My Github Status</h1>
 </p>
 
 <br/>
@@ -94,7 +94,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-#Language.
+#👨‍💻Language.
 <table align="center">
     <tbody><tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/milaan9/milaan9/blob/main/3898082.svg"><img src="https://github.com/milaan9/milaan9/raw/main/3898082.svg" width="25" style="max-width: 100%;"></a> Languages</td></tr>
     <tr><td><a href="/milaan9/milaan9/blob/main/README.md"><img src="https://github.com/milaan9/milaan9/raw/main/197484.svg" height="15" style="max-width: 100%;"> English ★★★☆☆</a></td></tr>
