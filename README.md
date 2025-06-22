@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Google, Amazon.**
 
-- 🤝 I’m looking for help with **@CyberLab Computer Institute**
+- 🤝 I’m looking for help with **@Code With Herry, Apna Clg..**
 
 - 👨‍💻 All of my projects are available at [Cyberlab.java/C programming/Java](Cyberlab.java/C programming/Java)
 
