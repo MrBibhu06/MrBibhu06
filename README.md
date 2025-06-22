@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **@Code With Herry, Apna Clg..**
 
-- 👨‍💻 All of my projects are available at [Cyberlab.java/C programming/Java](Cyberlab.java/C programming/Java)
+- 👨‍💻 All of my projects are available at [java.program/C programming/Java](java.program/C programming/Java)
 
 - 💬 Ask me about **C, C++ DSA, Java, Python, MsOfficeWorks, Webdesgin, Jsscript**
 
