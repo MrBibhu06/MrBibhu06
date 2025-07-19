@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Google, Amazon.**
 
-- 🤝 I’m looking for help with **@Code With Herry, Apna Clg..**
+- 🤝 I’m looking for help with **@Code With Herry.**
 
 - 👨‍💻 All of my projects are available at [java.program/C programming/Java](java.program/C programming/Java)
 
